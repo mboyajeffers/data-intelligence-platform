@@ -91,7 +91,7 @@ See also: [Platform Capabilities Overview](reports/platform/Data_Platform_Capabi
 
 ## Scale & Quality
 
-- **4.3M+ rows** of verified market data
+- **20M+ rows** of verified market data
 - **8 integrated** live data sources
 - **500+ automated tests**
 - Deployed on **GCP** — live 24/7
